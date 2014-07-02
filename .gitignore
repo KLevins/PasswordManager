@@ -1,0 +1,20 @@
+#java specific
+*.class
+
+#netbeans ignore personal stuff
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# Windows image file caches
+Thumbs.db 
